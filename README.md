@@ -36,4 +36,4 @@ EXAMPLE
   $ sfdx change-dependency:execute -n FinServ -j 214 -m 7
 ```
 
-_See code: [src/commands/change-dependency/execute.ts](https://github.com/nvuillam/sfdx-change-dependency-version/blob/v0.0.0/src/commands/change-dependency/execute.ts)_
+_See code: [src/commands/change-dependency/execute.ts](https://github.com/nvuillam/sfdx-change-dependency-version/blob/master/src/commands/change-dependency/execute.ts)_
