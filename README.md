@@ -15,13 +15,13 @@ Allows to change the external packages dependencies versions in local sfdx proje
 
 - Windows users: [sfdx plugin generator](https://github.com/forcedotcom/sfdx-plugin-generate) is bugged on windows (hardcode call of linux rm instruction) , so you may use [Git Bash](https://gitforwindows.org/) to run this code ( at least while it installs the plugin dependencies )
 
-## `sfdx-change-dependency-version change-dependency:execute`
+## `change-dependency:execute`
 
 Allows to change an external package dependency version
 
 ```
 USAGE
-  $ sfdx-change-dependency-version change-dependency:execute
+  $ change-dependency:execute OPTIONS
 
 OPTIONS
   -f, --folder=folder              SFDX project folder containing files
